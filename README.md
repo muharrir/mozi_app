@@ -1,6 +1,7 @@
 # mozi_app
 
-A new Flutter project. design by: pixel.buildwithangga.com
+A new Flutter project. 
+Design by: [pixel.buildwithangga.com](https://pixel.buildwithangga.com)
 
 ## Getting Started
 
